@@ -1,6 +1,6 @@
 # 🧑🏾‍💻 Jonathan Santos
 
-Me chamo Jonathan Santos dos Anjos, tenho 22 anos e sou residente de São Paulo - SP, Conclui o ensino médio em 2021. Atualmente estava cursando Análise e Desenvolvimento de Sistemas na Etec Vila Formosa, Inicie o Curso em Agosto de 2023 e terminei Dezembro de 2024.
+Me chamo Jonathan Santos dos Anjos, tenho 23 anos e sou residente de São Paulo - SP, Cursei  Me formei no curso técnico em Análise e Desenvolvimento de Sistemas na Etec onde aprofundei nas linguagens Java, Java Script e PHP e me interessei na área de Desenvolvedor Full-Stack, Atualmente estou cursando o ensino superior em ADS.
 
 <p align="left">
      </a> 
