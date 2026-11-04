@@ -1,6 +1,6 @@
 # 🧑🏾‍💻 Jonathan Santos
 
-Me chamo Jonathan Santos dos Anjos, tenho 23 anos, Me formei no curso técnico em Análise e Desenvolvimento de Sistemas na Etec onde aprofundei nas linguagens Java, Java Script e PHP e me interessei na área de Desenvolvedor Full-Stack, Atualmente estou cursando o ensino superior em ADS.
+Me chamo Jonathan Santos dos Anjos, tenho 23 anos, Cursei Análise e Desenvolvimento de Sistemas na Etec onde aprofundei nas linguagens Java, Java Script e PHP e me interessei na área de Desenvolvedor Full-Stack, Atualmente estou cursando o ensino superior em ADS.
 
 <p align="left">
      </a> 
