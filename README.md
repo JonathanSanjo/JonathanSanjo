@@ -69,7 +69,18 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/
 <br/>
   </div>
 
+#
+<h3 align="left">Contato:</h3>
+<a href="https://www.linkedin.com/in/JonathanSanjo" target="_blank">
+  <img 
+    alt="LinkedIn"
+    title="LinkedIn"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+  />
+</a>
 
+#
 
 
 <br clear="both">
