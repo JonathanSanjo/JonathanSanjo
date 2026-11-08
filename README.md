@@ -1,24 +1,19 @@
-# 🧑🏾‍💻 Jonathan Santos
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=0008ff&size=35&center=true&vCenter=true&width=1000&lines=[=++Bem+Vindo,+Ao+Meu+Perfil!++=])](https://git.io/typing-svg)
+#
+<p align="center">
+  <img src=".github/workflows/duque github (1280 x 320 px).gif" />
+</p>
+</h3>
 
-Me chamo Jonathan Santos dos Anjos, tenho 23 anos, Cursei Análise e Desenvolvimento de Sistemas na Etec onde aprofundei nas linguagens Java, Java Script e PHP e me interessei na área de Desenvolvedor Full-Stack, Atualmente estou cursando o ensino superior em ADS.
-
+#
 <p align="left">
-     </a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="Seguidores" 
-         title="Me Siga" 
-         src="https://custom-icon-badges.demolab.com/github/followers/JonathanSanjo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github-&label=seguidores&logoColor=white"/></a>
-      <a href="https://github.com/JonathanSanjo?tab=repositories&sort=stargazers">
-         <img alt="total de Estrelas" 
-         title="Total de Estrelas no GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/stars/JonathanSanjo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/></a>
-   </p>
+Prazer, Meu nome é Jonathan Santos. Tenho 23 anos, cursei ADS na Etec onde me aprofundei nas linguagens Java, Java Script e PHP e com isso me interessei na área de Desenvolvedor Full-Stack, Atualmente estou cursando o ensino superior em Análise e desenvolvimento de Sistemas.
 
-   ---
 
-   ### 🤖 Linguagens e Tecnologias
-
-   <img 
+#
+<h3 align="left">My Stack:</h3> <div>
+   
+  <img 
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -72,23 +67,22 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/
           
 <br/>
 <br/>
+  </div>
 
- ### 📊 Estatísticas    
-<p>
 
-<img 
-align="left"
-alt="GitHub Stats"
-height="200"
-style="padding-right: 10px"
-src="https://github-readme-stats.vercel.app/api?username=JonathanSanjo&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-/>
 
-<img 
-align="left"
-alt="GitHub Stats"
-height="200"
-style="padding-right: 10px"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSanjo&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
- </p>   
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph.svg">
+</picture>
+
+#
+
+###
+<p align="center">
+<i>"A tecnologia move o mundo?"</i> 
+</p>
