@@ -11,7 +11,7 @@ Prazer, Meu nome é Jonathan Santos. Tenho 23 anos, cursei ADS na Etec onde me a
 
 
 #
-<h3 align="left">My Stack:</h3> <div>
+<h3 align="left">Linguagens:</h3> <div>
    
   <img 
     align="left" 
@@ -90,10 +90,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph.svg">
 </picture>
-
-#
-
-###
-<p align="center">
-<i>"A tecnologia move o mundo?"</i> 
-</p>
